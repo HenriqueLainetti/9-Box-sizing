@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    /* Border-box segue tamanho width e height */
+    /* Content-box expande além do width e heght */
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background: #ff1493;
+    border: 10px solid #00f; /* dashed/solid */
+}
